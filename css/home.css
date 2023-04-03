@@ -116,3 +116,65 @@ header{
     background-color: #F6BF16;
     color: #000;
 }
+
+.sobre{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/banner-sobre-desk.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.container{
+    width: 40%;
+    background-image: url(../img/texture-jeronimo-smash-burger.jpg);
+    border: 2px solid #F6BF16;
+    padding-left: 90px;
+    padding-bottom: 20px;
+    margin-bottom: 70px;
+}
+
+.container h1{
+    color: #F6BF16;
+    font-size: 40px;
+}
+
+.container h3{
+    color: #fff;
+}
+
+.container p{
+    color: #fff;
+}
+
+.titulo{
+    margin: 50px 0;
+    border: 2px dashed #fff;
+    width: 85%;
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 5px 20px;
+    border-radius: 4px;
+}
+
+.titulo h1{
+    font-size: 175px;
+}
+
+.titulo h3{
+    font-size: 34px;
+    padding-top: 37px;
+    padding-left: 5px;
+}
+
+.lista{
+    width: 85%;
+}
+
+.lista p{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
